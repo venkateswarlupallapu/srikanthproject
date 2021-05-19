@@ -1,2 +1,2 @@
-# srikanthproject
-latest project
+# suresh-techs
+SureshTechs Websites
